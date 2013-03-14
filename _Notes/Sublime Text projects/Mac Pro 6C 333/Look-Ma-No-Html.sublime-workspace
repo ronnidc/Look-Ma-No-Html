@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"content"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"fa",
+				"factorial"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"table",
+				"table-cell"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Volumes/Ronni/Sites/Look Ma - No Html/index.html",
+			"settings":
+			{
+				"buffer_size": 71,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/Ronni/Sites/Look Ma - No Html/style.css",
+			"settings":
+			{
+				"buffer_size": 2252,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Ronni/Sites/DS_HTML/Design/Frontpage/index.html",
+		"/Volumes/Ronni/Sites/DS_HTML/Design/Styles/ds-style.less",
+		"/Volumes/Ronni/Sites/DS_HTML/_Notes/initializr-verekia-4.0/initializr/index.html",
+		"/Volumes/Ronni/Sites/DS_HTML/Design/Js/Lib/plugins.js",
+		"/Volumes/Ronni/Sites/DS_HTML/Design/Js/main.js",
+		"/Volumes/Ronni/Sites/DS_HTML/Design/test.html",
+		"/Volumes/Ronni/Sites/DS_HTML/Design/Frontpage/browser spec.html",
+		"/Volumes/Ronni/Sites/DS_HTML/Design/Frontpage/responsive.html",
+		"/Volumes/Ronni/Sites/DS_HTML/Design/Styles/Lib/grid.less",
+		"/Volumes/Ronni/Sites/DS_HTML/Design/Styles/Lib/normalize.css",
+		"/Volumes/Ronni/Sites/DS_HTML/default.html",
+		"/Volumes/Ronni/Sites/DS_HTML/Design/Styles/ds-style.css",
+		"/Volumes/Ronni/Sites/DS_HTML/Design/Styles/test4.less",
+		"/Volumes/Ronni/Sites/DS_HTML/Design/Styles/test4.css",
+		"/Volumes/Ronni/Sites/DS_HTML/Template/index.html",
+		"/Volumes/Ronni/Sites/DS_HTML/Template/Frontpage/index.html",
+		"/Volumes/Ronni/Sites/ronnidc_website/httpdocs/wp-content/themes/twentytwelve-child/style.css",
+		"/Volumes/Ronni/Sites/ronnidc_website/httpdocs/wp-content/themes/twentytwelve-child/functions.php",
+		"/Volumes/Ronni/Sites/ronnidc.dk/httpdocs/wp-config.php",
+		"/Volumes/Ronni/Sites/ronnidc.dk/httpdocs/wp-admin/user/admin.php",
+		"/Volumes/Ronni/Sites/ronnidc.dk/httpdocs/wp-admin/user/profile.php",
+		"/Volumes/Ronni/Sites/ronnidc.dk/httpdocs/wp-admin/admin.php",
+		"/Volumes/Ronni/Sites/ronnidc.dk/index.html",
+		"/Volumes/Ronni/Sites/domscripting/test.js",
+		"/Volumes/Ronni/Sites/domscripting/index.html",
+		"/Volumes/Ronni/Sites/okim/index.html",
+		"/Volumes/Ronni/Library/Caches/Cleanup At Startup/Transmit/77FE5B64-2FA4-4241-A4DF-D847084DBF88/index.html",
+		"/Volumes/Ronni/Library/Application Support/Google/Chrome/Default/User StyleSheets/Mycss.css",
+		"/Volumes/Ronni/Library/Application Support/Google/Chrome/Default/User StyleSheets/Custom.css",
+		"/Volumes/Ronni/Library/Application Support/Google/Chrome/Default/User StyleSheets/mycss.css",
+		"/Volumes/Ronni/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/Ronni/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"HTML2",
+			"\n",
+			"page",
+			"page\npage",
+			"logon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Volumes/Ronni/Sites/Look Ma - No Html/index.html",
+					"settings":
+					{
+						"buffer_size": 71,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Volumes/Ronni/Sites/Look Ma - No Html/style.css",
+					"settings":
+					{
+						"buffer_size": 2252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2211,
+								2211
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true
+}
